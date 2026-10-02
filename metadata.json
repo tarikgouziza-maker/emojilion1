@@ -1,0 +1,8 @@
+{
+  "name": "EmojiLion",
+  "description": "Explore, search, and copy thousands of emojis with categories, variations, gender collections, and detailed reference specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
